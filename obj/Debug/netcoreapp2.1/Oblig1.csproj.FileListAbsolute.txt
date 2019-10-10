@@ -1,0 +1,10 @@
+C:\Users\Manorkruls Javier\source\repos\Oblig1\bin\Debug\netcoreapp2.1\Oblig1.deps.json
+C:\Users\Manorkruls Javier\source\repos\Oblig1\bin\Debug\netcoreapp2.1\Oblig1.runtimeconfig.json
+C:\Users\Manorkruls Javier\source\repos\Oblig1\bin\Debug\netcoreapp2.1\Oblig1.runtimeconfig.dev.json
+C:\Users\Manorkruls Javier\source\repos\Oblig1\bin\Debug\netcoreapp2.1\Oblig1.dll
+C:\Users\Manorkruls Javier\source\repos\Oblig1\bin\Debug\netcoreapp2.1\Oblig1.pdb
+C:\Users\Manorkruls Javier\source\repos\Oblig1\obj\Debug\netcoreapp2.1\Oblig1.csprojAssemblyReference.cache
+C:\Users\Manorkruls Javier\source\repos\Oblig1\obj\Debug\netcoreapp2.1\Oblig1.AssemblyInfoInputs.cache
+C:\Users\Manorkruls Javier\source\repos\Oblig1\obj\Debug\netcoreapp2.1\Oblig1.AssemblyInfo.cs
+C:\Users\Manorkruls Javier\source\repos\Oblig1\obj\Debug\netcoreapp2.1\Oblig1.dll
+C:\Users\Manorkruls Javier\source\repos\Oblig1\obj\Debug\netcoreapp2.1\Oblig1.pdb

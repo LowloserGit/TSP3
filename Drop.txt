@@ -1,0 +1,37 @@
+﻿TSP random first try
+    //velger neste node mellom 0 og lengden til cities_tabellen
+                //nextNode = rnd.Next(0, cities.GetLength(1));
+                //Console.WriteLine("NextNodee: {0} ", nextNode);
+
+
+                //visited tabellen kan bli et problem ettersom den er full av 0-er, men neste node skal også kunne være 0.
+                //Kan vurdere å tvinge startnode som 0, eller bare fylle visited med -1
+                //    for (int j = 0; j < visited.Length; j++)
+                //    {
+                //        if (nextNode == visited[j])
+                //        {
+                //            Console.WriteLine("Node {0} already active at slot visited[{1}]", nextNode,j);
+                //            alreadyChosen = true;
+                //        }
+                //    }
+
+                //    if (alreadyChosen == false)
+                //    {
+                //        cost = cities[currentNode, nextNode];
+                //        totalCost = totalCost + cost;
+                //        visited[i+1] = nextNode;
+                //        solution[i] = cost;
+                //        cities[currentNode, nextNode] = -1;
+                //        cities[nextNode, currentNode] = -1;
+                //        currentNode = nextNode;
+                //        i++;
+                //    }
+                //    //else
+                //    //{
+                //    //    i--;
+                //    //}
+                //    //The chosen node is set to -1 regardless of outcome, it should NOT be picked again
+
+                //    //Console.WriteLine(cities[currentNode, nextNode]);
+                //    //Console.WriteLine(cities[nextNode ,currentNode]);
+            //}
