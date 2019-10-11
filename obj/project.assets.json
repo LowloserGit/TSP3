@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Manorkruls Javier\\.nuget\\packages\\": {},
+    "C:\\Users\\98miw\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Manorkruls Javier\\source\\repos\\Oblig1\\Oblig1.csproj",
+      "projectUniqueName": "C:\\Users\\98miw\\Desktop\\skole\\Optimering\\TSP3\\Oblig1.csproj",
       "projectName": "Oblig1",
-      "projectPath": "C:\\Users\\Manorkruls Javier\\source\\repos\\Oblig1\\Oblig1.csproj",
-      "packagesPath": "C:\\Users\\Manorkruls Javier\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Manorkruls Javier\\source\\repos\\Oblig1\\obj\\",
+      "projectPath": "C:\\Users\\98miw\\Desktop\\skole\\Optimering\\TSP3\\Oblig1.csproj",
+      "packagesPath": "C:\\Users\\98miw\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\98miw\\Desktop\\skole\\Optimering\\TSP3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Manorkruls Javier\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\98miw\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

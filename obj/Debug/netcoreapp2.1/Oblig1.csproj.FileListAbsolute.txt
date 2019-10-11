@@ -8,3 +8,13 @@ C:\Users\Manorkruls Javier\source\repos\Oblig1\obj\Debug\netcoreapp2.1\Oblig1.As
 C:\Users\Manorkruls Javier\source\repos\Oblig1\obj\Debug\netcoreapp2.1\Oblig1.AssemblyInfo.cs
 C:\Users\Manorkruls Javier\source\repos\Oblig1\obj\Debug\netcoreapp2.1\Oblig1.dll
 C:\Users\Manorkruls Javier\source\repos\Oblig1\obj\Debug\netcoreapp2.1\Oblig1.pdb
+C:\Users\98miw\Desktop\skole\Optimering\TSP3\bin\Debug\netcoreapp2.1\Oblig1.deps.json
+C:\Users\98miw\Desktop\skole\Optimering\TSP3\bin\Debug\netcoreapp2.1\Oblig1.runtimeconfig.json
+C:\Users\98miw\Desktop\skole\Optimering\TSP3\bin\Debug\netcoreapp2.1\Oblig1.runtimeconfig.dev.json
+C:\Users\98miw\Desktop\skole\Optimering\TSP3\bin\Debug\netcoreapp2.1\Oblig1.dll
+C:\Users\98miw\Desktop\skole\Optimering\TSP3\bin\Debug\netcoreapp2.1\Oblig1.pdb
+C:\Users\98miw\Desktop\skole\Optimering\TSP3\obj\Debug\netcoreapp2.1\Oblig1.csprojAssemblyReference.cache
+C:\Users\98miw\Desktop\skole\Optimering\TSP3\obj\Debug\netcoreapp2.1\Oblig1.AssemblyInfoInputs.cache
+C:\Users\98miw\Desktop\skole\Optimering\TSP3\obj\Debug\netcoreapp2.1\Oblig1.AssemblyInfo.cs
+C:\Users\98miw\Desktop\skole\Optimering\TSP3\obj\Debug\netcoreapp2.1\Oblig1.dll
+C:\Users\98miw\Desktop\skole\Optimering\TSP3\obj\Debug\netcoreapp2.1\Oblig1.pdb

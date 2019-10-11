@@ -39,11 +39,14 @@ namespace Oblig1
                 Console.WriteLine("Current program iteration: {0}", i + 1);
                 Console.WriteLine("RandomTSP:");
                 resultRandomTSP = resultRandomTSP + myAlgorithm.randomTSP(startNode, cities);
+                //myAlgorithm.twoPointSwap(citiesB);
                 Console.WriteLine("RandomIterativeTSP:");
                 resultIterativeRandomTSP = resultIterativeRandomTSP + myAlgorithm.iterativeRandomTSP(startNode, cities);
+                //myAlgorithm.twoPointSwap(citiesB);
                 Console.WriteLine("ResultGreedyTSP:");
                 resultGreedyTSP = resultGreedyTSP + myAlgorithm.greedyTSP(startNode, cities);
                 Console.Write("\n");
+                //myAlgorithm.twoPointSwap(citiesB);
             }
             resultRandomTSP = resultRandomTSP / programLoops;
             resultIterativeRandomTSP = resultIterativeRandomTSP / programLoops;

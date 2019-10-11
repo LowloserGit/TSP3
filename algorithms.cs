@@ -7,6 +7,8 @@ namespace Oblig1
     class Algorithms
     {
         static Random rnd = new Random();
+        static int[] visited2, solution2;
+        static int[] visited, solution;
 
         //public int getCurrentBest()
         //{
@@ -22,8 +24,8 @@ namespace Oblig1
             //int nextNode;
             int cost;
             int totalCost = 0;
-            int[] visited = new int[cities.GetLength(0)];
-            int[] solution = new int[cities.GetLength(0)-1];
+            visited = new int[cities.GetLength(0)];
+            solution = new int[cities.GetLength(0)-1];
             int currentBest = 0;
 
             if (startNode < 0 || startNode > cities.GetLength(0))
@@ -79,8 +81,8 @@ namespace Oblig1
         {
             int cost;
             int totalCost;
-            int[] visited = new int[cities.GetLength(0)];
-            int[] solution = new int[cities.GetLength(0) - 1];
+            visited = new int[cities.GetLength(0)];
+            solution = new int[cities.GetLength(0) - 1];
             int currentBest = int.MaxValue;
             //int improvement = int.MaxValue;
             int counter = 100;
@@ -152,8 +154,8 @@ namespace Oblig1
             int nextNode = 0;
             //int cost = int.MaxValue;
             int totalCost = 0;
-            int[] visited = new int[cities.GetLength(0)];
-            int[] solution = new int[cities.GetLength(0) - 1];
+            visited = new int[cities.GetLength(0)];
+            solution = new int[cities.GetLength(0) - 1];
             int currentBest;
             int amountVisited = 1;
             int minRow = 0;
@@ -202,6 +204,51 @@ namespace Oblig1
             printResult(visited, solution, currentBest);
             return currentBest;
         }//greedyTSP
+
+        public int twoPointSwap(int cities)
+        {
+            int totalCost = 0;
+
+            copyTable(visited, solution);
+
+            for (int i = 0; i < solution.Length; i++)
+            {
+                totalCost = totalCost + solution[i];
+            }
+
+
+
+            return 0;
+        }
+
+        public void copyTable(int[] visited, int[] solution)
+        {
+            visited2 = new int[(visited.Length)];
+            solution2 = new int[(solution.Length)];
+            for (int i = 0; i < visited.Length; i++)
+            {
+                visited2[i] = visited[i];
+            }
+
+            for (int i = 0; i < solution.Length; i++)
+            {
+                solution2[i] = solution[i];
+            }
+
+            for (int i = 0; i < visited.Length; i++)
+            {
+                Console.Write(visited2[i]);
+            }
+
+            Console.Write("\n");
+
+            for (int i = 0; i < solution.Length; i++)
+            {
+                Console.Write(solution2[i]);
+            }
+            Console.Write("\n");
+        }
+        
 
         public void printResult(int[] visited, int[] solution, int currentBest)
         {
